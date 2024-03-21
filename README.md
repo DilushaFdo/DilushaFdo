@@ -1,3 +1,4 @@
+![logo](https://github.com/DilushaFdo/DilushaFdo/blob/main/githubbanner.gif)
 <h1 align="center">Hi 👋, I'm Dilusha Fernando</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka.</h3>
 
